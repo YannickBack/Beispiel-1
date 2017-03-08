@@ -1,9 +1,12 @@
 # Beispiel1
 
-## Warum wir git verwendet 
+## Warum wir git verwenden
 
-1. Teamfähig
-1. backup
-1. zurück zu einer vorigen Version
+* Teamfähig
+* backup
+* zurück zu einer vorigen Version
 
-## Nächster Kurs HTML
+## Bilder und Links
+
+![Pferd](schoenes-wetter-4e3e2f0c-fc68-4960-8911-8bc2d53c13a7.jpg)
+Quelle: [Bild von nem Pferd](http://www.fotocommunity.de/photo/schoenes-wetter-pia-ma/23505393)
